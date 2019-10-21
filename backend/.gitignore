@@ -1,0 +1,11 @@
+node_modules
+logs
+uploads
+coverage
+notes.md
+TODOs.md
+*.log
+.vscode
+.eslintrc.js
+yarn.lock
+package-lock.json
